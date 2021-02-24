@@ -2,4 +2,5 @@
 int main
 {
   hello word;
+  loitao；
 }
